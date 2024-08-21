@@ -1,0 +1,4 @@
+parsera
+langchain
+openai
+python-dotenv
